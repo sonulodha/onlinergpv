@@ -385,7 +385,7 @@ spam i{
         top: 79%;
         left: 47%;
         width: 53%;
-        height: 120%;
+        height: 140%;
     }
     #logo img{
         width:80%;
@@ -424,7 +424,7 @@ spam i{
         margin-top: -45%;
     }
     #fotter{
-        top: 0%;
+        top: 10%;
         padding: 10px 30px;
         height: 70%;
         flex-direction: column;
