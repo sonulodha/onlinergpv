@@ -335,6 +335,14 @@ spam i{
     cursor: pointer;
 }
 
+@media(max-width:1024px){
+
+
+    #overlay img{
+        margin-top: 17%;
+    }
+}
+
 @media(max-width:768px){
     .cardsdiv{
         height: 42%;
@@ -439,7 +447,7 @@ spam i{
 
     #fotter #right {
         position: absolute;
-        margin-top: 95% ;
+        margin-top: 80% ;
     }
 
     #fotter #right:nth-child(2){
