@@ -553,6 +553,7 @@ spam i{
     }
 
     #fotter  {
+        margin-top: 40%;
     height: 90%;
     }
 
@@ -566,11 +567,20 @@ spam i{
 
 @media (max-width:320px){
     #dropbox button{
-        width: 45%;
+        width: 60%;
+    }
+
+    #menu{
+        top: 95%;
+        height: 140%;
     }
     #overlay h1 {
     right: 0px;
-    left: 30px;
+    left: -10px;
+    }
+
+    #overlay img{
+        top: 90%;
     }
 
     .cardsdiv{
