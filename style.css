@@ -363,6 +363,99 @@ spam i{
     }
 }
 
+
+@media(max-width:425px){
+    #cardspace{
+        display: none;
+    }
+
+    #dropbox{
+        display: block;
+        height: 70%;
+    }
+
+    #dropbox button{
+        top: 20%;
+        left: 47%;
+        width: 52%;
+        height: 10%;
+    }
+
+    #menu{
+        font-weight: 600;
+        top: 95%;
+        left: 47%;
+        width: 53%;
+        height: 140%;
+    }
+    #logo img{
+        width:80%;
+        margin-left: -20px;
+    }
+    #nav{
+        padding: 0px 40px;
+    }
+    #nav #rightsection a{
+        font-size: 14px;
+    }
+
+    #nav #rightsection i{
+        font-size: 16px;
+    }
+    #overlay h1{
+        margin-top: -30px;
+        margin-left: 40px;
+        line-height: 25px;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    #overlay img{
+        width: 42%;
+        margin-left: 100px;
+        margin-top: 34%;
+    }
+   
+    #text{
+        padding: 0px 0px;
+        height: 0vh;
+        margin-top: 35%;
+        align-content: center;
+    }
+    #text #circle{
+        margin-top: -45%;
+    }
+    #fotter{
+        top: 0%;
+        padding: 10px 30px;
+        height: 70%;
+        flex-direction: column;
+    }
+    #fotter #left {
+        width: 100%;
+        line-height: 30px;
+        font-size: 20px;
+        color: rgba(255, 255, 255, 0.459);
+    }
+
+    #fotter #right {
+        position: absolute;
+        margin-top: 95% ;
+    }
+
+    #fotter #right:nth-child(2){
+        margin-left: -20px;
+    }
+
+    #upbutton{
+        top: 80%;
+        right: 12%;
+    }
+    #fotter ul{
+        font-size-adjust: ;
+        left: 60%;
+    }
+}
+
 @media(max-width:411px){
     #cardspace{
         display: none;
