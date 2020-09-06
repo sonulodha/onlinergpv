@@ -198,7 +198,7 @@ spam i{
     display: none;
     /* justify-content: space-between; */
     position: absolute;
-    top: 85%;
+    top: 100%;
     left: 54%;
     transform: translate(-50%,-50%);
     width: 15%;
